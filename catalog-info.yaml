@@ -5,7 +5,6 @@ metadata:
   description: 'a description'
   annotations:
     jenkins.io/job-full-name: "default:Atc-Admin-Portal/"
-    jenkins.io/job-full-name: "default:ATC-Website/"
 spec:
   type: service
   lifecycle: experimental
