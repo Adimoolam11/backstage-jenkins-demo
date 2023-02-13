@@ -4,7 +4,7 @@ metadata:
   name: 'Jenkins-Dev-Portal'
   description: 'a description'
   annotations:
-    jenkins.io/job-full-name: "default:ATC-Website/"
+    jenkins.io/job-full-name: "ATC:ATC-Website/"
 spec:
   type: service
   lifecycle: experimental
