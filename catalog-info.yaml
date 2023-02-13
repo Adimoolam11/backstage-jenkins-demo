@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: 'Jenkins-Dev-Portal'
+  description: 'a description'
+  annotations:
+    jenkins.io/job-full-name: "default:ATC-Training-API/"
+spec:
+  type: service
+  lifecycle: experimental
+  owner: dev-team
